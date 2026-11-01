@@ -1,0 +1,6 @@
+{
+  "name": "BuildAI Pro",
+  "description": "Premium AI Website, Web App & Android App Builder SaaS Platform with Credit Management, Subscription Plans, Referral Commissions & Admin Control",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
